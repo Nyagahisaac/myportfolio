@@ -138,7 +138,7 @@ ul li a{
     font-size: 20px;
     font-family: myriad pro;
     font-weight: bold;
-    line-height: 5px;
+    line-height: 15px;
 }
 .about-text p:nth-child(3),
 .about-text p:nth-child(4){
@@ -374,6 +374,11 @@ input{
     position: relative;
     font-size: 25px;
 
+}
+label{
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
 }
 #copyright{
     font-size: 20px;
